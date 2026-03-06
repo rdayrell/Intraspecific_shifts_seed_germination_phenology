@@ -1,0 +1,28 @@
+# R specific
+.Rproj.user/*
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# renv
+renv/library/
+renv/staging/
+
+# OS files
+**/.DS_Store
+.DS_Store
+Thumbs.db
+
+# data
+data/xlsx/*
+data/csv/germination_timetoevent_Alnus_glutinosa.csv
+data/csv/germination_timetoevent_Betula_pubescens.csv
+data/csv/germination_timetoevent_Pinus_sylvestris.csv
+data/csv/serial_number_info.csv
+data/csv/Seed_mass_ALL.csv
+data/csv/Germination_summary_Alnus_glutinosa.csv
+data/csv/Germination_summary_Betula_pubescens.csv
+data/csv/Germination_summary_Pinus_sylvestris.csv
+output/imgs/production/*

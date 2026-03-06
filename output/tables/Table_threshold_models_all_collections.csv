@@ -1,0 +1,37 @@
+"Species_Name","Geographical.Location","serial_number","treat","Tb_SE","Tc_SE","To","ThetaT_SE","k_SE","max_GR"
+"Alnus glutinosa","UK:England:West Sussex",758725,"NS","14.97 (0.17)","40.02 (0.1)",29.7,"30.97 (1.3)","0.065 (0.008)",0.29
+"Alnus glutinosa","UK:England:West Sussex",758725,"COLD","8.71 (0.5)","38.04 (0.64)",30.6,"37.32 (2.3)","0.251 (0.064)",0.5
+"Alnus glutinosa","UK:England:Berkshire",770857,"NS","7.07 (0.48)","37.57 (0.52)",31.2,"59.9 (2.5)","0.357 (0.08)",0.36
+"Alnus glutinosa","UK:England:Berkshire",770857,"COLD","8.08 (0.34)","38.39 (0.5)",30.7,"32.39 (1.3)","0.247 (0.044)",0.59
+"Alnus glutinosa","UK:England:Dorset",815549,"NS","15.06 (1.4)","37.27 (0.64)",29.2,"30.1 (8.6)","0.13 (0.081)",0.32
+"Alnus glutinosa","UK:England:Dorset",815549,"COLD","10.91 (0.6)","36.71 (0.42)",31.1,"30.63 (2.1)","0.387 (0.114)",0.58
+"Alnus glutinosa","UK:Scotland:Tayside",895710,"NS","14.43 (0.26)","37.08 (0.28)",29.4,"28.18 (2)","0.157 (0.033)",0.38
+"Alnus glutinosa","UK:Scotland:Tayside",895710,"COLD","8.17 (0.4)","37.05 (0.37)",30.8,"34.64 (1.4)","0.353 (0.073)",0.58
+"Alnus glutinosa","UK:Scotland:Dumfries and Galloway",899305,"NS","14.87 (0.26)","36.7 (0.24)",29.5,"25.99 (1.8)","0.181 (0.036)",0.42
+"Alnus glutinosa","UK:Scotland:Dumfries and Galloway",899305,"COLD","13.64 (0.39)","37.55 (0.43)",29.3,"21.44 (2)","0.144 (0.039)",0.52
+"Alnus glutinosa","UK:England:Bedfordshire",925026,"NS","7.31 (0.58)","37.48 (0.56)",31.2,"76.87 (3.8)","0.359 (0.087)",0.28
+"Alnus glutinosa","UK:England:Bedfordshire",925026,"COLD","7.01 (0.56)","35.95 (0.25)",31.8,"39.84 (1.6)","0.698 (0.18)",0.59
+"Betula pubescens","UK:Wales:Pembrokeshire",892915,"NS","21.06 (9.9)","37.85 (6.2)",29.9,"23.85 (77)","0.024 (0.747)",0.19
+"Betula pubescens","UK:Wales:Pembrokeshire",892915,"COLD","10.22 (0.87)","38.34 (0.64)",29.2,"30.32 (4)","0.146 (0.047)",0.47
+"Betula pubescens","UK:Scotland:Borders",893048,"NS","22.01 (6.3)","34.98 (0.17)",28.7,"18.78 (46)","0.018 (0.556)",0.18
+"Betula pubescens","UK:Scotland:Borders",893048,"COLD","10.17 (2.2)","36.41 (0.78)",30,"52.5 (13)","0.3 (0.199)",0.32
+"Betula pubescens","UK:England:Hampshire",894492,"NS","23.14 (5.8)","37.34 (8.6)",30.5,"20.36 (75)","0.023 (1.186)",0.19
+"Betula pubescens","UK:England:Hampshire",894492,"COLD","11.82 (0.97)","37.24 (0.65)",29.6,"31.32 (5.1)","0.197 (0.084)",0.44
+"Betula pubescens","UK:Scotland:Strathclyde",895732,"NS","20.8 (8.3)","37.81 (4.5)",29.7,"25.02 (63)","0.023 (0.56)",0.19
+"Betula pubescens","UK:Scotland:Strathclyde",895732,"COLD","9.67 (0.69)","40.01 (0.48)",27.1,"31.17 (4.7)","0.045 (0.023)",0.33
+"Betula pubescens","UK:England:Devon",950323,"NS","20.33 (16)","37.24 (5.3)",29.3,"19.49 (86)","0.03 (0.912)",0.24
+"Betula pubescens","UK:England:Devon",950323,"COLD","10.61 (0.73)","37.92 (0.57)",30,"27.17 (2.8)","0.2 (0.057)",0.57
+"Betula pubescens","UK:Scotland:Highlands",1010271,"NS","20 (0.25)","38.46 (1.1)",28.3,"13.04 (2)","-0.041 (0.04)",0.29
+"Betula pubescens","UK:Scotland:Highlands",1010271,"COLD","10.24 (0.42)","36.55 (0.3)",31.3,"30.65 (1.3)","0.447 (0.099)",0.62
+"Pinus sylvestris","UK:Scotland:Highlands",912563,"NS","6.44 (1.5)","32.07 (0.87)",23.4,"53.1 (15)","0.14 (0.093)",0.23
+"Pinus sylvestris","UK:Scotland:Highlands",912563,"COLD","8.12 (0.57)","37.37 (0.4)",27.9,"23.4 (2.2)","0.14 (0.033)",0.63
+"Pinus sylvestris","UK:Scotland:Grampian",912585,"NS","4.91 (1.4)","32.23 (2.2)",18.8,"56.94 (20)","0.005 (0.056)",0.12
+"Pinus sylvestris","UK:Scotland:Grampian",912585,"COLD","5.74 (2.6)","35.03 (0.23)",29,"61.35 (12)","0.378 (0.148)",0.34
+"Pinus sylvestris","UK:Scotland:Tayside",912596,"NS","7.43 (0.89)","35.61 (0.4)",23,"40.38 (7.5)","0.032 (0.026)",0.22
+"Pinus sylvestris","UK:Scotland:Tayside",912596,"COLD","7.88 (0.8)","41.12 (0.42)",27.2,"21.07 (2.9)","0.044 (0.018)",0.55
+"Pinus sylvestris","UK:Scotland:Highlands",925037,"NS","6.63 (0.6)","36.17 (0.19)",26,"52.1 (4.6)","0.117 (0.02)",0.27
+"Pinus sylvestris","UK:Scotland:Highlands",925037,"COLD","7.34 (0.53)","38.9 (0.58)",28.6,"27.72 (2.2)","0.127 (0.028)",0.57
+"Pinus sylvestris","UK:Scotland:Highlands",925509,"NS","7.94 (0.63)","35.94 (0.4)",22.8,"34.32 (5.1)","0.018 (0.02)",0.23
+"Pinus sylvestris","UK:Scotland:Highlands",925509,"COLD","6.66 (0.8)","36.47 (0.3)",28.9,"30.69 (2.7)","0.247 (0.058)",0.61
+"Pinus sylvestris","UK:Scotland:Highlands",945534,"NS","7.33 (1.5)","32.18 (0.99)",23.7,"51.97 (15)","0.139 (0.095)",0.23
+"Pinus sylvestris","UK:Scotland:Highlands",945534,"COLD","6.96 (0.98)","40.4 (0.34)",26.8,"23.33 (3.5)","0.051 (0.019)",0.52
