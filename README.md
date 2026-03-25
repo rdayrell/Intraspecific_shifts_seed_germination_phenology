@@ -6,7 +6,7 @@ R scripts for the paper *Climate‑driven intraspecific shifts in seed germinati
 
 This repository contains the R scripts for the analyses and modelling reported in:
 
-> Dayrell RLC, Seal CE, White K, Fouce Hernandez E, Gómez Barreiro P, Oliver L, Donaldson A, Chapman T, Mattana E. (2026) Climate‑driven intraspecific shifts in seed germination phenology: Consequences for native temperate woodland restoration and regeneration. *Plants, People, Planet*.https://doi.org/10.1002%2Fppp3.70199
+> Dayrell RLC, Seal CE, White K, Fouce Hernandez E, Gómez Barreiro P, Oliver L, Donaldson A, Chapman T, Mattana E. (2026) Climate‑driven intraspecific shifts in seed germination phenology: Consequences for native temperate woodland restoration and regeneration. *Plants, People, Planet*. https://doi.org/10.1002/ppp3.70199
 ---
 
 ## Overview
